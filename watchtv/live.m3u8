@@ -349,3 +349,13 @@ http://221.226.51.220:50081/newlive/live/hls/30/live.m3u8$1080p
 http://221.226.51.220:50081/newlive/live/hls/37/live.m3u8$1080p
 #EXTINF:-1 group-title="HS央卫IPTV",三沙卫视
 http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8$1080p
+#EXTINF:-1 group-title="HS爱奇艺频道",古装妖魔
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",家庭剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",泰语剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",大家剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",爱情生活
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
