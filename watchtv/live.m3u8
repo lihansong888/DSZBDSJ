@@ -52,7 +52,7 @@ http://120.245.84.126:1234/609006476
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN俄语
 http://120.245.84.126:1234/609006446
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN阿拉伯语
-http://119.233.255.62:1234/609154345
+http://120.245.84.126:1234/609154345
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN西班牙语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN外语纪录
@@ -88,7 +88,7 @@ http://59.172.112.202:8000/hls/18/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",江苏卫视
 http://59.172.112.202:8000/hls/20/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",东方卫视
 http://59.172.112.202:8000/hls/21/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",深圳卫视
@@ -112,13 +112,13 @@ http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",河南卫视
 http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hnws
 #EXTINF:-1 group-title="HS央卫IPTV",江西卫视
-http://119.233.255.62:1234/783847495
+http://120.245.84.126:1234/783847495
 #EXTINF:-1 group-title="HS央卫IPTV",辽宁卫视
-http://119.233.255.62:1234/630291707
+http://120.245.84.126:1234/630291707
 #EXTINF:-1 group-title="HS央卫IPTV",安徽卫视
 http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",河北卫视
-http://119.233.255.62:1234/962042070
+http://120.245.84.126:1234/962042070
 #EXTINF:-1 group-title="HS央卫IPTV",山东卫视
 http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",天津卫视
