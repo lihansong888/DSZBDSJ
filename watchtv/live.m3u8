@@ -48,9 +48,9 @@ http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN法语
-http://175.169.85.35:1234/609006476
+http://114.228.118.166:7788/609006476
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN俄语
-http://175.169.85.35:1234/609006446
+http://114.228.118.166:7788/609006446
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN阿拉伯语
 http://175.169.85.35:1234/609154345
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN西班牙语
@@ -112,23 +112,23 @@ http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",河南卫视
 http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hnws
 #EXTINF:-1 group-title="HS央卫IPTV",江西卫视
-http://175.169.85.35:1234/783847495
+http://114.228.118.166:7788/783847495
 #EXTINF:-1 group-title="HS央卫IPTV",辽宁卫视
-http://175.169.85.35:1234/630291707
+http://114.228.118.166:7788/630291707
 #EXTINF:-1 group-title="HS央卫IPTV",安徽卫视
 http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",河北卫视
-http://175.169.85.35:1234/962042070
+http://114.228.118.166:7788/962042070
 #EXTINF:-1 group-title="HS央卫IPTV",山东卫视
 http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",天津卫视
 http://120.238.84.45:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",吉林卫视
-http://175.169.85.35:1234/947472500
+http://114.228.118.166:7788/947472500
 #EXTINF:-1 group-title="HS央卫IPTV",陕西卫视
-http://175.169.85.35:1234/738910838
+http://114.228.118.166:7788/738910838
 #EXTINF:-1 group-title="HS央卫IPTV",宁夏卫视
-http://175.169.85.35:1234/738910535
+http://114.228.118.166:7788/738910535
 #EXTINF:-1 group-title="HS央卫IPTV",内蒙古卫视
 http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",云南卫视
@@ -144,9 +144,9 @@ http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",新疆卫视
 http://111.8.224.6:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",兵团卫视
-http://175.169.85.35:1234/956923145
+http://114.228.118.166:7788/956923145
 #EXTINF:-1 group-title="HS央卫IPTV",大湾区卫视
-http://175.169.85.35:1234/608917627
+http://114.228.118.166:7788/608917627
 #EXTINF:-1 group-title="HS央卫IPTV",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",三沙卫视
@@ -160,13 +160,13 @@ http://198.204.228.26/live/xmws.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CETV1
 http://120.237.39.10:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="HS央卫IPTV",CETV1
-http://175.169.85.35:1234/923287154
+http://114.228.118.166:7788/923287154
 #EXTINF:-1 group-title="HS央卫IPTV",CETV2
-http://175.169.85.35:1234/923287211
+http://114.228.118.166:7788/923287211
 #EXTINF:-1 group-title="HS央卫IPTV",CETV3
 http://107.150.60.122/live/cetv3.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CETV4
-http://175.169.85.35:1234/923287339
+http://114.228.118.166:7788/923287339
 #EXTINF:-1 group-title="HS央卫IPTV",CEC文化
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CEC旅游
