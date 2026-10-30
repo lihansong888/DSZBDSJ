@@ -8,9 +8,9 @@ http://59.172.112.202:8000/hls/3/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV4
 http://121.57.88.206:898/hls/4/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV4欧洲
-http://175.169.85.35:1234/608807419
+http://114.228.118.166:7788/608807419
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV4美洲
-http://175.169.85.35:1234/608807416
+http://114.228.118.166:7788/608807416
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV5
 http://59.172.112.202:8000/hls/5/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV5+
@@ -1459,10 +1459,6 @@ http://114.228.118.166:7788/624878440
 http://114.228.118.166:7788/673168223
 #EXTINF:-1 group-title="咪咕视频",CCTV17农业农村
 http://114.228.118.166:7788/673168256
-#EXTINF:-1 group-title="咪咕视频",CCTV4欧洲
-http://114.228.118.166:7788/608807419
-#EXTINF:-1 group-title="咪咕视频",CCTV4美洲
-http://114.228.118.166:7788/608807416
 #EXTINF:-1 group-title="咪咕视频",CGTN外语纪录
 http://114.228.118.166:7788/609006487
 #EXTINF:-1 group-title="咪咕视频",CGTN阿拉伯语
