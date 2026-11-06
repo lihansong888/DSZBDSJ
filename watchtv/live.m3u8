@@ -44,7 +44,7 @@ http://121.57.88.206:898/hls/17/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN
-https://0472.org/hls/cgtn.m3u8
+http://123.10.79.181:808/hls/16/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN法语
 http://114.240.228.159:7788/609006476
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN俄语
@@ -80,15 +80,15 @@ http://59.172.112.202:8000/hls/17/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",广东卫视
 http://59.172.112.202:8000/hls/23/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",广西卫视
-http://120.238.84.45:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.10.79.181:808/hls/52/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",黑龙江卫视
-http://120.238.84.45:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.10.79.181:808/hls/45/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",海南卫视
 http://123.207.224.130:123/hainan/hainan.php?id=hnws
 #EXTINF:-1 group-title="HS央卫IPTV",重庆卫视
-http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.39.159:808/hls/44/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",四川卫视
-http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.39.159:808/hls/38/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",河南卫视
 http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hnws
 #EXTINF:-1 group-title="HS央卫IPTV",江西卫视
@@ -96,13 +96,13 @@ http://114.240.228.159:7788/783847495
 #EXTINF:-1 group-title="HS央卫IPTV",辽宁卫视
 http://114.240.228.159:7788/630291707
 #EXTINF:-1 group-title="HS央卫IPTV",安徽卫视
-http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.39.159:808/hls/35/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",河北卫视
 http://114.240.228.159:7788/962042070
 #EXTINF:-1 group-title="HS央卫IPTV",山东卫视
-http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.39.159:808/hls/29/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",天津卫视
-http://120.238.84.45:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.51.220:50081/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",吉林卫视
 http://114.240.228.159:7788/947472500
 #EXTINF:-1 group-title="HS央卫IPTV",陕西卫视
@@ -110,19 +110,19 @@ http://114.240.228.159:7788/738910838
 #EXTINF:-1 group-title="HS央卫IPTV",宁夏卫视
 http://114.240.228.159:7788/738910535
 #EXTINF:-1 group-title="HS央卫IPTV",内蒙古卫视
-http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.57.88.206:898/hls/19/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",云南卫视
-http://120.238.84.45:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.51.220:50081/newlive/live/hls/33/live.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",山西卫视
-http://120.238.84.45:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.10.79.181:808/hls/56/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",青海卫视
 http://114.240.228.159:7788/947472506
 #EXTINF:-1 group-title="HS央卫IPTV",甘肃卫视
-http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.39.159:808/hls/36/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",西藏卫视
-http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.39.159:808/hls/49/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",新疆卫视
-http://219.147.245.238:25480/newlive/live/hls/50/live.m3u8
+http://110.72.39.159:808/hls/43/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",兵团卫视
 http://114.240.228.159:7788/956923145
 #EXTINF:-1 group-title="HS央卫IPTV",大湾区卫视
@@ -132,7 +132,7 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",三沙卫视
 https://livessws.hnntv.cn/live/ssws_260111hnntv.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",海峡卫视
-http://183.250.156.180:9999/newlive/live/hls/27/live.m3u8
+http://183.250.156.180:9999/newlive/live/hls/25/live.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",农林卫视
 http://gxlive.snrtv.com/nlws-SD.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",厦门卫视
@@ -209,8 +209,14 @@ http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",翡翠台
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",黑龙江卫视
+http://120.238.84.45:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",北京卫视
 http://120.238.84.45:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",天津卫视
+http://120.238.84.45:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",山东卫视
+http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",江西卫视
 http://120.238.84.45:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",湖北卫视
@@ -219,22 +225,34 @@ http://120.238.84.45:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.238.84.45:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",贵州卫视
 http://120.238.84.45:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",四川卫视
+http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",金鹰纪实
 http://120.238.84.45:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",安徽卫视
+http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",中国教育
 http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",山东教育
 http://120.238.84.45:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",重庆卫视
+http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",河北卫视
 http://120.238.84.45:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",东南卫视
 http://120.238.84.45:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",吉林卫视
 http://120.238.84.45:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",广西卫视
+http://120.238.84.45:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",河南卫视
 http://120.238.84.45:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",云南卫视
+http://120.238.84.45:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",陕西卫视
 http://120.238.84.45:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",山西卫视
+http://120.238.84.45:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",内蒙古
 http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",青海卫视
@@ -243,6 +261,10 @@ http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.238.84.45:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",宁夏卫视
 http://120.238.84.45:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",西藏卫视
+http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS央卫IPTV",甘肃卫视
+http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",兵团卫视
 http://120.238.84.45:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",相声小品
