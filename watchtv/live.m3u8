@@ -44,7 +44,7 @@ http://121.57.88.206:898/hls/17/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CCTV4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN
-http://123.10.79.181:808/hls/16/index.m3u8
+https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN法语
 http://114.240.228.159:7788/609006476
 #EXTINF:-1 group-title="HS央卫IPTV",CGTN俄语
@@ -80,9 +80,9 @@ http://59.172.112.202:8000/hls/17/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",广东卫视
 http://59.172.112.202:8000/hls/23/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",广西卫视
-http://123.10.79.181:808/hls/52/index.m3u8
+http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",黑龙江卫视
-http://123.10.79.181:808/hls/45/index.m3u8
+http://110.72.39.159:808/hls/30/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",海南卫视
 http://123.207.224.130:123/hainan/hainan.php?id=hnws
 #EXTINF:-1 group-title="HS央卫IPTV",重庆卫视
@@ -114,7 +114,7 @@ http://121.57.88.206:898/hls/19/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",云南卫视
 http://221.226.51.220:50081/newlive/live/hls/33/live.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",山西卫视
-http://123.10.79.181:808/hls/56/index.m3u8
+http://113.15.109.216:59901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS央卫IPTV",青海卫视
 http://114.240.228.159:7788/947472506
 #EXTINF:-1 group-title="HS央卫IPTV",甘肃卫视
@@ -417,6 +417,8 @@ http://123.207.224.130:123/jilin/jilin.php?id=jlszh
 http://123.207.224.130:123/jilin/jilin.php?id=ybws
 #EXTINF:-1 group-title="地方频道",长春综合
 http://123.207.224.130:123/jilin/jilin.php?id=cczh
+#EXTINF:-1 group-title="地方频道",💚辽宁卫视
+http://110.72.39.159:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="地方频道",辽宁体育
 http://120.76.248.139/live/bfgd/4200000611.m3u8
 #EXTINF:-1 group-title="地方频道",辽宁教育青少
@@ -425,30 +427,22 @@ http://120.76.248.139/live/bfgd/4200000075.m3u8
 http://120.76.248.139/live/bfgd/4200000076.m3u8
 #EXTINF:-1 group-title="地方频道",💚河南卫视
 http://116.128.243.121:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方频道",💚河南卫视
-http://123.10.79.181:808/hls/17/index.m3u8
 #EXTINF:-1 group-title="地方频道",河南都市
-http://123.10.79.181:808/hls/18/index.m3u8
+http://123.160.234.160:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南民生
-http://123.10.79.181:808/hls/19/index.m3u8
+http://123.160.234.160:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南法治
-http://123.10.79.181:808/hls/20/index.m3u8
+http://123.160.234.160:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南电视剧
-http://123.10.79.181:808/hls/21/index.m3u8
+http://171.14.93.38:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南新闻
-http://123.10.79.181:808/hls/22/index.m3u8
+http://123.160.234.160:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南公共
-http://123.10.79.181:808/hls/24/index.m3u8
+http://123.160.234.160:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南乡村
-http://123.10.79.181:808/hls/25/index.m3u8
-#EXTINF:-1 group-title="地方频道",河南国际
-http://123.10.79.181:808/hls/26/index.m3u8
+http://171.14.93.38:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南梨园
-http://123.10.79.181:808/hls/27/index.m3u8
-#EXTINF:-1 group-title="地方频道",武术世界
-http://123.10.79.181:808/hls/29/index.m3u8
-#EXTINF:-1 group-title="地方频道",文物宝库
-http://123.10.79.181:808/hls/28/index.m3u8
+http://123.160.234.160:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南都市
 http://42.225.117.174:11199/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",河南民生
@@ -500,7 +494,7 @@ http://113.26.251.182:8009/hls/22/index.m3u8
 #EXTINF:-1 group-title="地方频道",山西文体生活
 http://113.26.251.182:8009/hls/23/index.m3u8
 #EXTINF:-1 group-title="地方频道",💚陕西卫视
-http://123.10.79.181:808/hls/57/index.m3u8
+http://112.27.5.218:9901/tsfile/live/faacts/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",新闻资讯
 http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1 group-title="地方频道",都市青春
@@ -528,11 +522,11 @@ http://219.145.93.74:10000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="地方频道",都市青春
 http://219.145.93.74:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 #EXTINF:-1 group-title="地方频道",💚甘肃卫视
-http://123.10.79.181:808/hls/58/index.m3u8
+http://110.72.39.159:808/hls/36/index.m3u8
 #EXTINF:-1 group-title="地方频道",兰州新闻
 http://221.7.49.226:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",💚青海卫视
-http://123.10.79.181:808/hls/60/index.m3u8
+http://112.27.5.218:9901/tsfile/live/faacts/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",西宁新闻
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="地方频道",💚湖北卫视
@@ -830,7 +824,7 @@ http://ikuai.haleeyo.cn:9003/rtp/239.253.43.62:5146$广州电信
 #EXTINF:-1 group-title="地方频道",💚深圳直播
 https://livepull-tcyzb.sztv.com.cn/live/YSZ_regularlive.m3u8
 #EXTINF:-1 group-title="地方频道",深圳卫视
-http://123.10.79.181:808/hls/41/index.m3u8
+http://110.72.39.159:808/hls/26/index.m3u8
 #EXTINF:-1 group-title="地方频道",深圳都市
 http://120.237.39.10:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="地方频道",💚海南卫视
@@ -1411,77 +1405,3 @@ http://114.240.228.159:7788/959986618
 http://114.240.228.159:7788/958475356
 #EXTINF:-1 group-title="咪咕视频",梨园频道
 http://114.240.228.159:7788/961930369
-#EXTINF:-1 group-title="HS电影直播频道",刘德华电影
-https://live.metshop.top/huya/11342424
-#EXTINF:-1 group-title="HS电影直播频道",功夫电影
-https://live.metshop.top/huya/11352941
-#EXTINF:-1 group-title="HS电影直播频道",古天乐电影
-https://live.metshop.top/huya/29982675
-#EXTINF:-1 group-title="HS电影直播频道",周星驰电影
-https://live.metshop.top/huya/11342412
-#EXTINF:-1 group-title="HS电影直播频道",宇宙科幻合集
-https://live.metshop.top/huya/11342428
-#EXTINF:-1 group-title="HS电影直播频道",强森电影
-https://live.metshop.top/huya/21059581
-#EXTINF:-1 group-title="HS电影直播频道",怪兽电影
-https://live.metshop.top/huya/21059577
-#EXTINF:-1 group-title="HS电影直播频道",成龙电影
-https://live.metshop.top/huya/11342386
-#EXTINF:-1 group-title="HS电影直播频道",战争电影
-https://live.metshop.top/huya/21059574
-#EXTINF:-1 group-title="HS电影直播频道",李连杰电影
-https://live.metshop.top/huya/11342390
-#EXTINF:-1 group-title="HS电影直播频道",林正英电影
-https://live.metshop.top/huya/11342421
-#EXTINF:-1 group-title="HS电影直播频道",枪战电影
-https://live.metshop.top/huya/21059579
-#EXTINF:-1 group-title="HS电影直播频道",武侠电影
-https://live.metshop.top/huya/11342427
-#EXTINF:-1 group-title="HS电影直播频道",沈腾电影
-https://live.metshop.top/huya/11601968
-#EXTINF:-1 group-title="HS电影直播频道",玄幻电影
-https://live.metshop.top/huya/11342414
-#EXTINF:-1 group-title="HS电影直播频道",王晶电影
-https://live.metshop.top/huya/11602058
-#EXTINF:-1 group-title="HS电影直播频道",甄子丹电影
-https://live.metshop.top/huya/11352935
-#EXTINF:-1 group-title="HS电影直播频道",电影丧尸片
-http://live.metshop.top/huya/21059578?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影功夫片
-http://live.metshop.top/huya/11352941?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影动作电影
-http://live.metshop.top/huya/11602077?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影周星星
-http://live.metshop.top/huya/11336587?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影喜剧专场
-http://live.metshop.top/huya/11602044?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影嫣然影厅
-http://live.metshop.top/huya/11601977?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影战争片
-http://live.metshop.top/huya/21059574?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影搞笑喜剧
-http://live.metshop.top/huya/11342423?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影犯罪片
-http://live.metshop.top/huya/11352974?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影谍战片
-http://live.metshop.top/huya/21059587?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影贺岁
-http://live.metshop.top/huya/11601971?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",电影高分动作
-http://live.metshop.top/huya/11352884?cdn=alicdn
-#EXTINF:-1 group-title="HS电影直播频道",罪犯电影
-https://live.metshop.top/huya/11352962
-#EXTINF:-1 group-title="HS电影直播频道",谍战电影
-https://live.metshop.top/huya/21059585
-#EXTINF:-1 group-title="HS电影直播频道",贺岁电影
-https://live.metshop.top/huya/11601986
-#EXTINF:-1 group-title="HS电影直播频道",黄渤电影
-https://live.metshop.top/huya/11352876
