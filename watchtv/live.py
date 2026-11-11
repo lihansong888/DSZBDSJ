@@ -4,8 +4,8 @@ import os
 
 # ========== 源地址（加速链接） ==========
 URL_LIST = [
-    "https://cdn.jsdelivr.net/gh/bang359/dsj@main/dsjcs1.txt",
-    "https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/Jsnzkpgtv@main/my1.txt"
+    "https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt",
+    "https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/refs/heads/main/my1.txt"
 ]
 
 # ========== 第一块：分组映射（左边：源内分组名，右边输出分组名） ==========
