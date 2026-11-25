@@ -72,7 +72,7 @@ http://59.172.112.202:8000/hls/21/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",深圳卫视
 http://221.226.51.220:50081/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",北京卫视
-http://59.172.112.202:8000/hls/22/index.m3u8
+http://hbhyjq.ufyct.com:1088/hls/37/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",湖北卫视
 http://hbhyjq.ufyct.com:1088/hls/48/index.m3u8
 #EXTINF:-1 group-title="HS央卫IPTV",广东卫视
